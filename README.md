@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I worked at accounting & finance field for 6 years
+- 🌱 I’m currently learning SQL and Python data analysis
+- 👯 I want to become an expert in financial data analysis.
 
 <!--
 **jhleeatl/jhleeatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning SQL and Python data analysis
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
